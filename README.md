@@ -1,3 +1,3 @@
-# Demo a Terrain Model( model.gltf ) with **<model-viewer>**
+# Display a 3D Model with **\<model-viewer\>** on the Web
   
 
